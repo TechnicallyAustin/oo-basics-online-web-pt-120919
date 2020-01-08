@@ -7,6 +7,6 @@ end
 
 def cobble
   puts "The shoes have been repaired."
-  self.condition = new
+  self.condition = "New"
 end
 end
