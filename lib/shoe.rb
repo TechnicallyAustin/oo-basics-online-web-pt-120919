@@ -6,7 +6,7 @@ def initialize(brand)
 end
 
 def cobble
-  puts "The shoes have been repaired."
+  puts "Your shoes are good as new!."
   self.condition = "new"
 end
 end
