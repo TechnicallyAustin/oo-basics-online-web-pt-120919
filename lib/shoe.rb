@@ -5,5 +5,8 @@ def initialize(brand)
   @brand = brand
 end
 
-
+def cobble
+  puts "The shoes have been repaired."
+  self.condition = new
+end
 end
